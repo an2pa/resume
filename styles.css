@@ -1,0 +1,129 @@
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 3.625rem;
+    margin-top: 0;
+    margin-bottom: 0px;
+    color: #66BFBF;
+
+}
+h2{
+    font-size: 2.5 rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin-bottom: 30px;
+
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+ul{
+    display: inline-block;   
+}
+li{
+    padding-left: 20px;
+}
+hr{
+    margin: 100px auto 100px auto;
+    width: 5%;
+    border-width: 13px;
+    border-style: dotted;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-color: #b1cdce;;
+}
+.posebna{
+    margin-top: 200px;
+    margin-bottom: 70px;
+}
+.top-container{
+    background-color: rgb(235, 252, 247);
+    position: relative;
+    padding-top:100px ;
+
+}
+.middle-container{
+    margin-bottom: 100px;
+    position: relative;
+    padding-top: 100px;
+
+}
+.bottom-container{
+    margin-top: 80px;
+    padding: 40px;
+    background-color: #66BFBF;
+    word-spacing: 15px;
+
+}
+.profile{
+    width: 50%;
+    margin: auto
+}
+.bottomcloud{
+    position: absolute;
+    bottom: 300px;
+    left: 350px;
+}
+.topcloud{
+    position: absolute;
+    top: 50px;
+    right:350px;
+    
+}
+#me{
+    border-radius: 30%;
+    margin-top: 50px;
+}
+#programming{
+    
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    margin-top: 30px;
+}
+#learn{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+#prog{
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+.btn{
+    border: solid;
+    background-color:  #11999E; 
+    color: white;
+    padding: 20px;
+    position: absolute;
+    bottom: -4%;
+    left: 45%;
+}
+.btn:hover{
+    color: rgb(54, 233, 173);
+}
+.contact-me{
+    height: 200px;
+    width: 50%;
+    margin: auto auto 150px auto;
+}
+.last{
+    color: white;
+    word-spacing: normal;
+}
